@@ -24,16 +24,16 @@ handwritten-digit-recognition/
 ```bash
 git clone https://github.com/gadjicte/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
-
+```
 ### 2. Create a Virtual Environment (optional but recommended)
-
+```
 python -m venv venv
 venv\Scripts\activate  # On Windows
-
+```
 ### 3. Install Requirements
-
+```
 pip install -r requirements.txt
-
+```
 ### 4. Launch Jupyter Notebook
-
+```
 jupyter notebook main.ipynb
