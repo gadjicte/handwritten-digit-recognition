@@ -39,3 +39,35 @@ pip install -r requirements.txt
 ### 4. Launch Jupyter Notebook
 ```
 jupyter notebook main.ipynb
+```
+### 🧠 Model Summary
+Input: 28x28 grayscale images
+
+Flatten layer
+
+2 Dense layers with ReLU activation
+
+Output layer with Softmax activation
+
+The model learns to classify digits with high accuracy after training.
+
+### 📊 Training Results
+Add screenshots here (optional):
+
+Accuracy & loss plot
+
+Sample predictions
+
+### 📦 Requirements
+See requirements.txt file or use:
+```
+pip install tensorflow numpy matplotlib
+```
+### 🎓 Learning Goals
+Understand basic deep learning workflows
+
+Preprocess image data for neural networks
+
+Visualize training performance
+
+Predict and evaluate model accuracy
