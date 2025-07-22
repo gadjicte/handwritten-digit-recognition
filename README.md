@@ -13,9 +13,9 @@ This project uses a simple deep learning model to recognize handwritten digits (
 
 handwritten-digit-recognition/
 │
-├── main.ipynb # Jupyter Notebook with full code and explanation
-├── README.md # Project overview and usage instructions
-└── requirements.txt # List of required Python packages
+├── main.ipynb  # Jupyter Notebook with full code and explanation
+├── README.md  # Project overview and usage instructions
+└── requirements.txt  # List of required Python packages
 
 
 ## 🚀 How to Run
