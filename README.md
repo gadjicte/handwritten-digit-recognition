@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 jupyter notebook main.ipynb
 ```
-### 🧠 Model Summary
+## 🧠 Model Summary
 Input: 28x28 grayscale images
 
 Flatten layer
@@ -51,19 +51,19 @@ Output layer with Softmax activation
 
 The model learns to classify digits with high accuracy after training.
 
-### 📊 Training Results
+## 📊 Training Results
 Add screenshots here (optional):
 
 Accuracy & loss plot
 
 Sample predictions
 
-### 📦 Requirements
+## 📦 Requirements
 See requirements.txt file or use:
 ```
 pip install tensorflow numpy matplotlib
 ```
-### 🎓 Learning Goals
+## 🎓 Learning Goals
 Understand basic deep learning workflows
 
 Preprocess image data for neural networks
